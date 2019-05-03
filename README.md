@@ -1,2 +1,2 @@
 # CAPEX_Web
-CAPEX Solicitudes de Proyectos WEB
+CAPEX Solicitudes de Proyectos DESKTOP
